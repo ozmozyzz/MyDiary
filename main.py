@@ -1,7 +1,7 @@
 """
 Programa MyDiary
 Analista:
-Objetivo: teste
+Objetivo: teste ywefyduystdfuyst
 Revisoon Date:
 
 """
